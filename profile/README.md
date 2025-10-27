@@ -18,7 +18,7 @@ To empower students through hands-on development, peer collaboration, and real-w
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [campus-connect-client](https://github.com/CampusConnectHub/campus-connect-client) | Java-based frontend (AWT / SWING) for Campus Connect PBL | Java (AWT & Swing) |
-| [campus-connect-portal](https://github.com/CampusConnectHub/campus-connect-portal) | WEB BASED Interface   | JAVA + MySQL |
+| [campus-connect-portal](https://github.com/CampusConnectHub/campus-connect-portal) | WEB BASED Interface (Under Development)  | JAVA + MySQL |
 
 ## 🛠️ Tech Stack
 

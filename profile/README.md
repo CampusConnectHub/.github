@@ -1,5 +1,12 @@
 # 🎓 Campus Connect Hub
 
+[![Java 24](https://img.shields.io/badge/Java-24-blue.svg)](https://www.oracle.com/java/)
+[![Swing UI](https://img.shields.io/badge/UI-Swing-green.svg)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![MySQL](https://img.shields.io/badge/Database-MySQL-blue.svg)](https://www.mysql.com/)
+[![JDBC](https://img.shields.io/badge/Backend-JDBC-yellow.svg)](https://docs.oracle.com/javase/tutorial/jdbc/)
+[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build: Stable](https://img.shields.io/badge/build-Stable-brightgreen.svg)]()
+
 Welcome to **Campus Connect Hub** — a student-led initiative at Geethanjali College of Engineering and Technology, Hyderabad, focused on building impactful academic and open-source projects. This organization hosts collaborative repositories for PBLs, club activities, and community-driven development.
 
 ## 🚀 Mission
